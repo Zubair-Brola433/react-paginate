@@ -1,3 +1,4 @@
+Edit by Mzubair
 # react-paginate
 
 [![NPM](https://nodei.co/npm/react-paginate.png?downloads=true)](https://nodei.co/npm/react-paginate/)
